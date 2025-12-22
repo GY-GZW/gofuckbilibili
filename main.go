@@ -1,3 +1,5 @@
+// Copyright (C) 2025 GY-GZW
+// This program is licensed under AGPLv3 or later.
 package main
 
 import (
